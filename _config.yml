@@ -28,14 +28,14 @@ url: "https://jadenmckee.github.io"
 github:
   username: jadenmckee # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+instagram:
+  username: jaden11mckee # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Your Name
-  email: your.email@domain.com # change to your email address
+  name: Jaden McKee
+  email: jaden11@mit.edu # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://www.linkedin.com/in/yourprofile # LinkedIn profile for professional networking
