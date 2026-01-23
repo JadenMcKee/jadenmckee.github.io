@@ -14,22 +14,23 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jaden McKee's Engineering Portfolio # the main title
+title: Jaden McKee # the main title
 
-tagline: Class of 2028 MIT Mechanical Engineering # it will display as the subtitle
+tagline: MIT 2028 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Professional mechanical engineering portfolio showcasing design projects, technical expertise, and engineering solutions.
+ My personal website showcasing my engineering projects and achievements.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
+
 url: "https://jadenmckee.github.io"
 
 github:
   username: jadenmckee # change to your GitHub username
 
 instagram:
-  username: jaden11mckee # change to your Twitter username
+  username: jaden11mckee # change to your Instagram username
 
 social:
   # Change to your full name.
@@ -38,8 +39,9 @@ social:
   email: jaden11@mit.edu # change to your email address
   links:
     # The first element serves as the copyright owner's link
-   # LinkedIn profile for professional networking
+    - https://www.linkedin.com/in/jaden-mckee-a92a59310 # LinkedIn profile for professional networking
     - https://github.com/jadenmckee # GitHub for code repositories
+
     # Uncomment below to add more social links
     - https://www.instagram.com/jaden11mckee/
     # - https://www.facebook.com/username
@@ -98,7 +100,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/images/social_preview.jpg
+avatar: /assets/images/Senior Picture.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

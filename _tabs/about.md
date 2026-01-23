@@ -6,67 +6,53 @@ order: 1
 
 ## About Me
 
-Welcome to my mechanical engineering portfolio! I am a passionate mechanical engineer with expertise in design, analysis, and innovation. This portfolio showcases my projects, technical skills, and professional experience in the field of mechanical engineering.
+Welcome to my mechanical engineering portfolio. I am a second year mechanical engineering student with a passion for design, innovation, and entrepreneurship. This portfolio showcases my projects, technical skills, and professional experience.
 
 ---
 
 ## Education
 
-### Master of Science in Mechanical Engineering
-**University Name** | *Year - Year*
-- Specialization: [e.g., Design & Manufacturing, Thermal Systems, Robotics]
-- Thesis: [Thesis Title]
-- Key Courses: Advanced CAD/CAM, Finite Element Analysis, Heat Transfer, Control Systems
-
-### Bachelor of Science in Mechanical Engineering
-**University Name** | *Year - Year*
-- GPA: [X.XX/4.00]
-- Relevant Coursework: Machine Design, Fluid Mechanics, Thermodynamics, Materials Science
-- Senior Design Project: [Project Title]
+## Bachelor of Science in Mechanical Engineering
+**Massachussetts Institute of Technology** | *2024 - Present*
+- GPA: [4.8/5.0]
+- Relevant Coursework: Dynamics and Controls I & II, Numerical Computation, Mechanics and Materials I
 
 ---
 
 ## Technical Skills
 
 ### **CAD & Design Software**
-- SolidWorks (Advanced)
-- AutoCAD
-- CATIA
+- SolidWorks
 - Fusion 360
-- Inventor
 
 ### **Analysis & Simulation**
-- ANSYS (FEA/CFD)
 - MATLAB/Simulink
-- COMSOL Multiphysics
-- LabVIEW
 
 ### **Manufacturing & Prototyping**
-- CNC Machining
-- 3D Printing (FDM, SLA, SLS)
-- GD&T
-- Manufacturing Process Planning
+- Mill
+- Lathe
+- WaterJet
+- Laser Cutter
+- 3D Printing
 
 ### **Programming & Tools**
-- Python
+- Excel
 - C/C++
-- Excel (Advanced)
-- Project Management Tools
+- Python
 
 ---
 
 ## Professional Experience
 
-### **Mechanical Engineer** | *Company Name* | *Date Range*
-- Designed and optimized mechanical systems for [industry/application]
-- Conducted FEA analysis to validate designs and reduce material costs by X%
-- Collaborated with cross-functional teams to deliver projects on time and within budget
-- Created technical documentation and manufacturing drawings
+### **Engineering Intern** | *Evolve Battery and Grid Solutions* | *June 2025 - August 2025*
 
-### **Engineering Intern** | *Company Name* | *Date Range*
-- Assisted in product development and testing
-- Performed quality control inspections
-- Supported manufacturing process improvements
+- Interned for startup company building a virtual power plant for South Africa
+- Set up Raspberry Pis to communicate with logger device and transfer data to server
+- Processed data to determine energy curtailment of independent power producers and optimal discharge period
+
+### **Undergraduate Researcher** | *MIT QNN* | *January 2026 - Present*
+
+- Designed and implemented mechanical lift for Cryostat to improve ease of use
 
 ---
 
@@ -78,19 +64,10 @@ Welcome to my mechanical engineering portfolio! I am a passionate mechanical eng
 - **Project Management**: Leading engineering projects from concept to production
 - **Problem Solving**: Analytical thinking and innovative solutions
 
----
-
-## Certifications & Professional Development
-
-- SolidWorks Certified Professional (CSWP)
-- [Other relevant certifications]
-- [Professional memberships, e.g., ASME]
-
----
 
 ## Interests
 
-When I'm not engineering, I enjoy [hobbies/interests that show well-roundedness, e.g., robotics, 3D printing, automotive restoration, etc.].
+When I'm not engineering, I enjoy Pole Vaulting, Surfing, and Skateboarding.
 
 ---
 
