@@ -1,6 +1,6 @@
 ---
 title: "2.007 Robot Competition"
-date: 2025-12-15
+date: 2026-05-15
 categories:
   - Design
   - Manufacturing
