@@ -35,18 +35,18 @@ Welcome to my mechanical engineering portfolio. I am a third-year mechanical eng
 ## Technical Skills
 
 **Software**
-    SolidWorks
-    MATLAB
+    SolidWorks,
+    MATLAB,
     Multisim
 
 **Programming/Controls**
-    Arduino
-    Soldering + Electronics
+    Arduino,
+    Soldering + Electronics,
     ESP32
 
 **Fabrication**
-    CNC Mill + Lathe
-    Welding
+    CNC Mill + Lathe,
+    Welding,
     Woodworking
 
 ---
