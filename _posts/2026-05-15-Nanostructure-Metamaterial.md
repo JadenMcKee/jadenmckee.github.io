@@ -3,7 +3,9 @@ title: "Nanostructure Metamaterial Optimization"
 date: 2026-05-15
 categories:
   - Design
-  
+image:
+  path: /assets/images/nanostructure-thumbnail.jpg
+  alt: Nanostructure Metamaterial Optimization
 math: true
 toc: true
 ---
