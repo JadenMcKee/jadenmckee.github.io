@@ -4,6 +4,9 @@ date: 2026-05-15
 categories:
   - Design
   - Manufacturing
+image:
+  path: /assets/images/2007-robot-thumbnail.jpeg
+  alt: 2.007 Robot Competition
 math: true
 toc: true
 ---

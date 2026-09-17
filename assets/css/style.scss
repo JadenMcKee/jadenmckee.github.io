@@ -48,3 +48,11 @@
   margin: 0 !important;
   padding: 0 !important;
 }
+
+/* Post preview cards show the image on the left (theme default is right) */
+@media (min-width: 768px) {
+  #post-list .card .preview-img,
+  #post-list .card .preview-img img {
+    border-radius: 10px 0 0 10px;
+  }
+}
