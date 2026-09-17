@@ -3,6 +3,9 @@ title: "Set Design Projects"
 date: 2026-09-17
 categories:
   - Set Design
+image:
+  path: /assets/images/set-design-thumbnail.jpg
+  alt: Set Design Projects
 math: true
 toc: true
 ---
