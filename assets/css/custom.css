@@ -39,3 +39,30 @@
     border-radius: 10px;
   }
 }
+
+/* Photo collage on the About page */
+.photo-collage {
+  column-count: 2;
+  column-gap: 0.5rem;
+  margin: 1.5rem 0;
+}
+
+@media (min-width: 768px) {
+  .photo-collage {
+    column-count: 3;
+  }
+}
+
+.photo-collage img {
+  width: 100%;
+  display: block;
+  margin-bottom: 0.5rem;
+  border-radius: 10px;
+  break-inside: avoid;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+  transition: transform 0.15s ease;
+}
+
+.photo-collage img:hover {
+  transform: scale(1.02);
+}
