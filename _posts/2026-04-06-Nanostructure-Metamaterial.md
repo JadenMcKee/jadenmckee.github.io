@@ -1,6 +1,6 @@
 ---
 title: "Nanostructure Metamaterial Optimization"
-date: 2026-05-15
+date: 2026-04-06
 categories:
   - Design
 image:
@@ -27,7 +27,7 @@ The goal of this project was to design a nanostructure metamaterial that is as s
 
 1. **Design iteration:** I modeled several candidate unit cells in CAD and ran FEA on each one to compare their performance before settling on a final design.
 2. **Tessellation:** I patterned the final unit cell into a 5×5 structure.
-3. **Fabrication:** I manufactured the structure at MIT Nanolab using two-photon lithography.
+3. **Fabrication:** I manufactured the structure at MIT.nano using two-photon lithography.
 4. **Testing:** I measured its mechanical performance on a nano Instron machine.
 
 ## Design Iteration
