@@ -66,3 +66,60 @@
 .photo-collage img:hover {
   transform: scale(1.02);
 }
+
+/* Side-by-side images in a post. Set each item's flex-grow to its image's
+   width / height ratio so the images share a common height. */
+.image-row {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+  margin: 0.5rem 0;
+}
+
+.image-row > div {
+  flex-basis: 0;
+  min-width: 0;
+}
+
+.image-row a.popup {
+  display: block;
+  width: 100%;
+  margin: 0 !important;
+}
+
+.image-row img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.image-row-caption {
+  display: block;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+/* One style for every caption: the post's header image, markdown image
+   captions, .image-row captions, and embedded video captions. */
+.content a.popup + em,
+.content .embed-video + em,
+.image-row-caption,
+figcaption {
+  font-size: 0.95rem !important;
+  font-style: normal;
+  font-weight: 500;
+  color: var(--text-color) !important;
+  line-height: 1.6;
+}
+
+@media (max-width: 575px) {
+  .image-row {
+    flex-direction: column;
+  }
+
+  .image-row > div {
+    flex: none !important;
+    width: 100%;
+  }
+}
