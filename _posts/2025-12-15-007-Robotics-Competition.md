@@ -5,7 +5,7 @@ categories:
   - Design
   - Manufacturing
 image:
-  path: /assets/images/2007-robot-thumbnail.jpeg
+  path: /assets/images/IMG_8560.jpeg
   alt: 2.007 Robot Competition
 math: true
 toc: true
