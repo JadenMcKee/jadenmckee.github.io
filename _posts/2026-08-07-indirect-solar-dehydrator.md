@@ -13,6 +13,40 @@ toc: true
 
 ## Project Overview
 
+For my undergraduate research with MIT D-Lab, I am designing an indirect solar dehydrator for farmers in rural Peru who grow Aguaje, the fruit of the moriche palm. Drying the fruit lets farmers preserve and sell more of their harvest, improving their place in the Aguaje value chain.
+
+### Design Challenges
+
+The dehydrator has to work in the conditions these farmers actually face:
+
+- **High humidity:** the surrounding air is very humid, which makes drying harder.
+- **Limited electricity:** power is difficult to access, so the design cannot depend on it.
+- **Limited infrastructure:** the design has to be buildable and maintainable without specialized facilities.
+
+## How It Works
+
+![Diagram of an indirect solar dehydrator](/assets/images/indirect-solar-dehydrator-diagram.jpg)
+_How an indirect solar dehydrator works_
+
+An indirect solar dehydrator heats air in a separate solar collector, then channels that heated air into an enclosed drying chamber. This keeps the food out of direct sunlight while convective airflow carries moisture out through the top.
+
+## Early Prototype
+
+![Early solar dehydrator prototype](/assets/images/IMG_9306.jpg){: w="500" }
+_Early prototype built to test the concept_
+
+## Version 2 Prototype
+
+![Version 2 solar dehydrator prototype](/assets/images/IMG_9480.jpg){: w="500" }
+_Version 2 prototype_
+
+I have been using this prototype to run tests and get a rough idea of how the design may perform in Peru. The results show which conditions it works in and which upgrades the next version needs. I am now working on that next version.
+
+{% comment %}
+Template sections kept for later. Nothing below renders on the site.
+
+## Project Overview
+
 [One or two sentences describing what an indirect solar dehydrator is and what problem this project addresses — e.g. low-cost food preservation, reducing spoilage, off-grid drying.]
 
 ## Objectives
@@ -126,3 +160,4 @@ Key components:
 ---
 
 *This project demonstrates proficiency in solar thermal design, prototyping, and testing. For questions or collaboration opportunities, please [contact me](/contact/).*
+{% endcomment %}
