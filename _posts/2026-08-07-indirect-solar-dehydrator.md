@@ -4,6 +4,9 @@ date: 2026-08-07
 categories:
   - Research
   - Prototyping
+image:
+  path: /assets/images/Solar_Dehydrator_cad.png
+  alt: Indirect Solar Dehydrator
 math: true
 toc: true
 ---
