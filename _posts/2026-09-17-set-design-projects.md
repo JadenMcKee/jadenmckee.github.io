@@ -1,5 +1,6 @@
 ---
 title: "Set Design Projects"
+published: false
 date: 2026-09-17
 categories:
   - Set Design
