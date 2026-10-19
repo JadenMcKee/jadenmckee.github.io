@@ -3,6 +3,9 @@ title: "Go Forth and Measure: Evaporation Rate"
 date: 2026-09-25
 categories:
   - Research
+image:
+  path: /assets/images/Revised_SetUp.png
+  alt: Revised evaporation experiment setup
 math: true
 toc: true
 ---
