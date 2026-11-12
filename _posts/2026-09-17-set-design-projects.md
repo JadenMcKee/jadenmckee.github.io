@@ -17,7 +17,7 @@ toc: true
   can go at the top or bottom, whichever reads better as the list grows.
 -->
 
-A collection of my set design work, from digital renderings of real spaces to research, drafting, and scale models for full productions.
+This post is a running collection of my set design and stage production projects for my Set Design Class 21T.220.
 
 ---
 
