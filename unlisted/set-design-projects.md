@@ -1,8 +1,12 @@
 ---
 title: "Set Design Projects"
+# Unlisted: kept out of posts lists, categories, archives, search, feed and
+# sitemap by living outside _posts. Only reachable via the permalink below.
+layout: post
+permalink: /set-design-21t220-de85c76e/
 date: 2026-09-17
-categories:
-  - Set Design
+sitemap: false
+noindex: true
 image:
   path: /assets/images/set-design-thumbnail.jpg
   alt: Set Design Projects
