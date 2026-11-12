@@ -91,64 +91,44 @@ The 4D Monster's form is meant to sit beyond our comprehension. As the story des
 <div class="everybody-grid" markdown="1">
 
 ![Anatomical theatre, Padua (1595)](/assets/images/everybody/research/01_padua_anatomical_theatre.jpg)
-*Figure 5: Anatomical theatre, Padua (1595). Steep concentric rings looking down on a body at the centre. Photo: [Kalibos, public domain](https://commons.wikimedia.org/wiki/File:Th%C3%A9%C3%A2tre-anatomique-Padoue.JPG)*
 
 ![Anatomical theatre, Gustavianum, Uppsala (1660s)](/assets/images/everybody/research/02_gustavianum_anatomical_theatre_uppsala.jpg)
-*Figure 6: Anatomical theatre, Gustavianum, Uppsala (1660s). Tiered rings around a central table, lit from above. Photo: [ArildV, CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Gustavianum_Anatomiska_teater_September_2024_02.jpg)*
 
 ![Reconstructed Leiden anatomical theatre, Museum Boerhaave](/assets/images/everybody/research/03_boerhaave_anatomical_theatre_leiden.jpg)
-*Figure 7: Reconstructed Leiden anatomical theatre, Museum Boerhaave. Circular wooden tiers with skeletons standing among them. Photo: [Jos van den Broek, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Museum_Boerhaave_-_Anatomical_Theatre.jpg)*
 
 ![Theatre of Epidaurus, Greece](/assets/images/everybody/research/04_epidaurus_theatre.jpg)
-*Figure 8: Theatre of Epidaurus, Greece. Circular orchestra with a central point; seating cut by stair aisles. Photo: [Olecorre, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Theatre_of_Epidaurus_OLC.jpg)*
 
 ![Theatre of Delphi, Greece](/assets/images/everybody/research/05_delphi_theatre.jpg)
-*Figure 9: Theatre of Delphi, Greece. Curved stone tiers and the walkway between seating bands. Photo: [Bernard Gagnon, CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Ancient_Greek_theatre_of_Delphi_-_diazoma.jpg)*
 
 ![Roman theatre of Aspendos, Turkey](/assets/images/everybody/research/06_aspendos_theatre.jpg)
-*Figure 10: Roman theatre of Aspendos, Turkey. Well-preserved Roman theatre; orchestra, tiers and aisle stairs. Photo: [Lee Vilenski, CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Aspendos_Theatre,_Turkey.jpg)*
 
 ![Odeon of Herodes Atticus, Athens](/assets/images/everybody/research/07_odeon_of_herodes_atticus.jpg)
-*Figure 11: Odeon of Herodes Atticus, Athens. Ancient amphitheater still used as a working stage. Photo: [Jakub Halun, CC BY 4.0](https://commons.wikimedia.org/wiki/File:Odeon_of_Herodes_Atticus,_Athens,_20240531_1303_9622.jpg)*
 
 ![Colosseum interior, Rome](/assets/images/everybody/research/08_colosseum_interior.jpg)
-*Figure 12: Colosseum interior, Rome. The full oval arena with spectators' tiers on all sides. Photo: [Paul VanDerWerf, CC BY 2.0](https://commons.wikimedia.org/wiki/File:Inside_The_Colosseum_-_Flickr_-_Me_in_ME.jpg)*
 
 ![Colosseum arena and hypogeum from above](/assets/images/everybody/research/09_colosseum_arena_and_hypogeum.jpg)
-*Figure 13: Colosseum arena and hypogeum from above. The under-floor level that held lifts and traps beneath the arena. Photo: [Daryl Mitchell, CC BY-SA 2.0](https://commons.wikimedia.org/wiki/File:Colosseum_Interior_9_(14819287900).jpg)*
 
 ![Flavian Amphitheatre, Pozzuoli](/assets/images/everybody/research/10_pozzuoli_amphitheatre_arena_traps.jpg)
-*Figure 14: Flavian Amphitheatre, Pozzuoli. Arena floor with the rectangular openings to the level below. Photo: [ho visto nina volare, CC BY-SA 2.0](https://commons.wikimedia.org/wiki/File:Pozzuoli,_anfiteatro_Flavio_(17394019873).jpg)*
 
 ![Roman amphitheatre, Merida, Spain](/assets/images/everybody/research/11_merida_amphitheatre.jpg)
-*Figure 15: Roman amphitheatre, Merida, Spain. Arena with a sunken pit at its centre. Photo: [VonRalph, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:VR_Merida_02-Amphitheatre.jpg)*
 
 ![Amphitheatre of Italica, Spain](/assets/images/everybody/research/12_italica_amphitheatre.jpg)
-*Figure 16: Amphitheatre of Italica, Spain. Oval arena with a central pit open to view. Photo: [Diego Delso, CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Anfiteatro_de_las_ruinas_romanas_de_It%C3%A1lica,_Santiponce,_Sevilla,_Espa%C3%B1a,_2015-12-06,_DD_34-45_PAN_HDR.JPG)*
 
 ![Amphitheatre of El Djem, Tunisia](/assets/images/everybody/research/13_el_djem_amphitheatre.jpg)
-*Figure 17: Amphitheatre of El Djem, Tunisia. Arena with a central trench cut into the floor. Photo: [Diego Delso, CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Anfiteatro,_El_Jem,_T%C3%BAnez,_2016-09-04,_DD_55-66_HDR_PAN.jpg)*
 
 ![Amphitheatre of Pompeii](/assets/images/everybody/research/14_pompeii_amphitheatre.jpg)
-*Figure 18: Amphitheatre of Pompeii. Early stone amphitheatre; simple sunken bowl. Photo: [Mosborne01, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Pompeii_amphitheatre_interior_exposed_1000px.png)*
 
 ![Amphitheatre of Leptis Magna, Libya (lower resolution)](/assets/images/everybody/research/15_leptis_magna_amphitheatre.jpg)
-*Figure 19: Amphitheatre of Leptis Magna, Libya (lower resolution). Amphitheatre sunk into the ground like a pit. Photo: [David Stanley, CC BY 2.0](https://commons.wikimedia.org/wiki/File:Amphitheatre_-_Leptis_Magna.jpg)*
 
 ![Pula Arena, Croatia, at night](/assets/images/everybody/research/16_pula_arena_stage_at_night.jpg)
-*Figure 20: Pula Arena, Croatia, at night. Roman arena lit and in use as a modern performance venue. Photo: [Rosholinux, CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Pula_Arena_3.jpg)*
 
 ![Red Rocks Amphitheatre, Colorado](/assets/images/everybody/research/17_red_rocks_amphitheatre.jpg)
-*Figure 21: Red Rocks Amphitheatre, Colorado. Modern amphitheater with curved rows stepping down to the stage. Photo: [Maarten Heerlien, CC BY 2.0](https://commons.wikimedia.org/wiki/File:Seating_area_of_the_amphitheatre_(6452953617).jpg)*
 
 ![Royal Exchange Theatre auditorium, Manchester](/assets/images/everybody/research/18_royal_exchange_theatre_auditorium.jpg)
-*Figure 22: Royal Exchange Theatre auditorium, Manchester. Fully in-the-round stage with galleries stacked around it. Photo: [David Hawgood, CC BY-SA 2.0](https://commons.wikimedia.org/wiki/File:Auditorium_of_the_Royal_Exchange_Theatre_-_geograph.org.uk_-_3373930.jpg)*
 
 ![Circle in the Square Theatre, New York](/assets/images/everybody/research/19_circle_in_the_square_theatre.jpg)
-*Figure 23: Circle in the Square Theatre, New York. Audience wrapped around a lit central platform. Photo: [Epicgenius, CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Circle_in_the_Square_Theatre_Oct_2025_20.jpg)*
 
 ![Ryogoku Kokugikan sumo hall, Tokyo](/assets/images/everybody/research/20_ryogoku_kokugikan_sumo_ring.jpg)
-*Figure 24: Ryogoku Kokugikan sumo hall, Tokyo. Raised central platform inside a full ring of spectators. Photo: [Goki, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Ryogoku_Kokugikan_Tsuriyane_05212006.jpg)*
 
 </div>
 
@@ -159,7 +139,7 @@ The 4D Monster's form is meant to sit beyond our comprehension. As the story des
 ### Drafting
 
 ![Everybody ground plan and section — The Circle of Life](/assets/images/everybody/stage-draft.jpg)
-*Figure 25: Ground plan and section, "The Circle of Life" (1/8" = 1'-0")*
+*Figure 5: Ground plan and section, "The Circle of Life" (1/8" = 1'-0")*
 
 [Open the full drafting plate (PDF) in a new tab](/assets/pdf/everybody-stage-draft.pdf){: target="_blank" }
 
@@ -168,17 +148,14 @@ The 4D Monster's form is meant to sit beyond our comprehension. As the story des
 **Danse Macabre**
 
 ![Danse Macabre model photograph](/assets/images/everybody/danse-macabre.jpg)
-*Figure 26: Danse Macabre*
 
 **The Journey**
 
 ![The Journey model photograph](/assets/images/everybody/the-journey.jpg)
-*Figure 27: The Journey*
 
 **Love**
 
 ![Love model photograph](/assets/images/everybody/love.jpg)
-*Figure 28: Love*
 
 ### Design Statement
 
